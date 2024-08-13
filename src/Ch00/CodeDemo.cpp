@@ -1,6 +1,5 @@
 // Learning C++ 
-// Exercise 00_03 (modified by me)
-// Using the exercise files on GitHub, by Eduardo Corpeño 
+// Exercise 00_03 (modified by me) 
 //asking for two numbers to add
 #include <iostream>
 
