@@ -5,7 +5,7 @@
 #include <iostream>
 
 int main(){
-    //count = character output reps the out put window that text is sent to
+    //cout = character output reps the out put window that text is sent to
     //endl = end line aka: break line
     // the \n also works as break line
     std::cout << "Hi There!" << std::endl;
